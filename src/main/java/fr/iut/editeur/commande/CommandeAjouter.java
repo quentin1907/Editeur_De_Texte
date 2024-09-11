@@ -2,6 +2,10 @@ package fr.iut.editeur.commande;
 
 import fr.iut.editeur.document.Document;
 
+
+/*
+* Cette classe permet d'ajouter des mots
+ */
 public class CommandeAjouter extends CommandeDocument {
 
 
